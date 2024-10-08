@@ -1,1 +1,32 @@
+.bg-info {
+    background-color: #72b372 !important; /* Light green for secondary backgrounds */
+}
 
+
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #005a00;            /* Dark green for brand name & nav links for visibility */
+}
+
+.btn-info {
+    color: #f2fbf2;            
+    background-color: #72b372; 
+    border-color: #005a00;     
+}
+.btn-primary {
+    color: #f2fbf2;            
+    font-size: 150%;
+    background-color: #005a00; 
+    border-color: #b75858;     
+    border-width: thick;
+}
+
+body{
+    background-color: aliceblue;
+}
+.navbar-brand{
+    font-family: 'Caveat', fantasy;
+    font-size: 2.25rem;
+}
+#submit{
+    background-color: rgb(235, 100, 100);
+}
